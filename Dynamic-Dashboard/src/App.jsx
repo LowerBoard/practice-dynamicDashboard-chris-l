@@ -1,4 +1,5 @@
-import './App.css'
+import './App.css';
+import DynamicDashboard from './components/DynamicDashboard';
 
 function App() {
 
@@ -6,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-
+        <DynamicDashboard />
       </div>
       
     </>
